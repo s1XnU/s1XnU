@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @liurou6
-- 👀 I’m interested in exploring the world
+- 👋 Hi, I’m @liurou6.
+- 👀 I’m interested in exploring the world.
 - 🌱 I’m currently learning things that I'm curious about. 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
